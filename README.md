@@ -1,11 +1,8 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset=".github/assets/recursive_logo_light.svg">
-    <img src=".github/assets/recursive_logo_dark.svg" alt="Recursive"
-      width="400">
-  </picture>
-</p>
+<h1 align="center">SRK Rec</h1>
+
+<p align="center"><sub>Maintained by Dr. M. Rajkumar · part of the SRK family.
+Based on <a href="https://github.com/recursive-oss/rec">recursive-oss/rec</a>
+by Recursive, used under the Apache License 2.0 (see <code>LICENSE</code>).</sub></p>
 
 `rec` is our custom inference engine for running [Recursive's language
 models](https://www.recursive.com/updates/introducing-recursive-flint)
